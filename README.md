@@ -1,3 +1,3 @@
 # Sem1
-This Folder Contain All The C Language Programms Of First Sem [(DHARMSINH DESAI UNIVERSITY Lab Manual)]. 
-May Be 1 Or 2 Programms i Have not Written Yet , BUT i Will Surely Do That Whenever I Have Free Time. 
+This folder contain all the C Language Programms of first sem [(DHARMSINH DESAI UNIVERSITY Lab Manual)]. 
+may be 1 Or 2 Programms i have not written yet , BUT i will surely do that whenever i have free time. 
